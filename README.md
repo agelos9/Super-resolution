@@ -1,9 +1,10 @@
 # 🛰️ Cross-Sensor Satellite Image Super-Resolution (SEVIRI → MODIS)
 
-This repository contains the DL code and a data visualisation notebook data preparation workflow, and results for the MSc thesis project:  
+This repository contains the DL code and a data visualisation notebook for the MSc thesis project:  
 **“Deep Learning Techniques for Satellite Image Downscaling: A Cross-Sensor Super-Resolution Approach for Cloud Mask Products”**  
 conducted at the **National and Kapodistrian University of Athens (NKUA)**, STAR MSc Program.
 
+*The data preparation workflow and detailed results will be added soon
 ---
 
 ## 🎯 Project Overview
